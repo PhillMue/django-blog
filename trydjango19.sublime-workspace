@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fibon",
+				"Fibonacci"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"formatter"
+			],
+			[
+				"spe",
+				"spellcheck"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"the",
+				"in_the_doghouse"
+			],
+			[
+				"in",
+				"in_the_forest"
+			],
+			[
+				"p",
+				"Person"
+			],
+			[
+				"s",
+				"strings"
+			],
+			[
+				"F",
+				"Fibonacci"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"is",
+				"isprime"
+			],
+			[
+				"r",
+				"range"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mue/Mypython_apps/ex7.py",
+		"/home/mue/Mypython_apps/ex8.py",
+		"/home/mue/Mypython_apps/ex9.py",
+		"/home/mue/Mypython_apps/ex10.py",
+		"/home/mue/Mypython_apps/ex6.py",
+		"/home/mue/Mypython_apps/ex5.py",
+		"/home/mue/Mypython_apps/ex4.py",
+		"/home/mue/Mypython_apps/ex3.py",
+		"/home/mue/Mypython_apps/ex2.py",
+		"/home/mue/Mypython_apps/ex1.py",
+		"/home/mue/blog/client/shared/main.html",
+		"/home/mue/blog/client/posts/templates/new_post.html",
+		"/home/mue/blog/client/posts/templates/new_post.js",
+		"/home/mue/blog/lib/controllers/new_post.js",
+		"/home/mue/blog/client/posts/templates/post_page.html",
+		"/home/mue/blog/lib/controllers/single_post.js",
+		"/home/mue/blog/client/shared/layouts/main_layout.html",
+		"/home/mue/blog/lib/controllers/base.js",
+		"/home/mue/blog/lib/collections/schemas/posts.js",
+		"/home/mue/blog/lib/controllers/main_page.js",
+		"/home/mue/blog/client/posts/templates/posts_list.html",
+		"/home/mue/blog/lib/collections/posts.js",
+		"/home/mue/blog/client/posts/templates/posts.js",
+		"/home/mue/simple-todos/simple-todos.css",
+		"/home/mue/simple-todos/simple-todos.js",
+		"/home/mue/simple-todos/simple-todos.html",
+		"/home/mue/python-programs/Databases/crud.py",
+		"/home/mue/python-programs/Databases/database.py",
+		"/home/mue/python-programs/Files/bigfile.txt",
+		"/home/mue/python-programs/Files/lines.txt",
+		"/home/mue/Pictures/olives.jpg",
+		"/home/mue/python-programs/Containers/dictionary.py",
+		"/home/mue/python-programs/Containers/sequenceops.py",
+		"/home/mue/python-programs/Containers/sequences.py",
+		"/home/mue/python-programs/Containers/utf8.txt",
+		"/home/mue/python-programs/Containers/validation.py",
+		"/home/mue/python-programs/classes/scaleobj.py",
+		"/home/mue/python-programs/classes/scalemore.py",
+		"/home/mue/python-programs/classes/polymorphism.py",
+		"/home/mue/python-programs/classes/object.py",
+		"/home/mue/python-programs/classes/interface.py",
+		"/home/mue/python-programs/classes/inheritance.py",
+		"/home/mue/python-programs/classes/generator.py",
+		"/home/mue/python-programs/classes/decorators.py",
+		"/home/mue/python-programs/classes/constructor.py",
+		"/home/mue/python-programs/classes/classes.py",
+		"/home/mue/personal-web/index.html",
+		"/home/mue/python-programs/functions/functions.py",
+		"/home/mue/python-programs/functions/generatorfunc.py",
+		"/home/mue/python-programs/functions/listarguments.py",
+		"/home/mue/python-programs/functions/namedfunctargs.py",
+		"/home/mue/python-programs/functions/returninfuncs.py",
+		"/home/mue/python-programs/operators/sliceops.py",
+		"/home/mue/python-programs/operators/operators.py",
+		"/home/mue/python-programs/operators/bitwiseops.py",
+		"/home/mue/python-programs/operators/booleanops.py",
+		"/home/mue/python-programs/operators/comparisonops.py",
+		"/home/mue/python-programs/Regexes/regexreplace.py",
+		"/home/mue/python-programs/Regexes/regexcompile.py",
+		"/home/mue/python-programs/Regexes/regex.py",
+		"/home/mue/python-programs/Regexes/regex.md",
+		"/home/mue/python-programs/Regexes/raven.txt",
+		"/home/mue/python-programs/Exceptions/exceptions.py",
+		"/home/mue/python-programs/Exceptions/line.txt",
+		"/home/mue/python-programs/Exceptions/raisingexceptions.py",
+		"/home/mue/python-programs/python_tasks/spellcheck.py",
+		"/home/mue/python-programs/task/words.txt",
+		"/home/mue/my-js/time.html",
+		"/home/mue/my-js/console_selectors.html",
+		"/home/mue/my-js/if_else.html",
+		"/home/mue/my-js/madlibs.html",
+		"/home/mue/my-js/var-hour.html",
+		"/home/mue/javascript-notes/palindrome.js",
+		"/home/mue/javascript-notes/game.js",
+		"/home/mue/my-js/about.html",
+		"/home/mue/my-js/var hour.html",
+		"/home/mue/my-js/var a = 1.html",
+		"/home/mue/js.html",
+		"/home/mue/python-programs/Loops/while.py",
+		"/home/mue/python-programs/Loops/loopcontrol.py",
+		"/home/mue/python-programs/Loops/lines.txt",
+		"/home/mue/python-programs/Loops/for.py",
+		"/home/mue/python-programs/Loops/enumeration.py",
+		"/home/mue/python-programs/Conditionals/conditionalexp.py",
+		"/home/mue/python-programs/Conditionals/if_else.py",
+		"/home/mue/python-programs/Conditionals/elif.py",
+		"/home/mue/python-programs/Conditionals/switch.py",
+		"/home/mue/python-programs/Variables/variables_lists.py",
+		"/home/mue/python-programs/Variables/variables_dictionaries.py",
+		"/home/mue/python-programs/Variables/variables_numbers.py",
+		"/home/mue/python-programs/Variables/objects.md",
+		"/home/mue/python-programs/Variables/mutable.md",
+		"/home/mue/python-programs/Variables/Boolean.md",
+		"/home/mue/personal-website/index.html",
+		"/home/mue/python-programs/General syntax/syntax-functions.py",
+		"/home/mue/python-programs/General syntax/syntax-conditionals.py",
+		"/home/mue/python-programs/General syntax/assignments.py",
+		"/home/mue/python-programs/General syntax/syntax-whitespace.py",
+		"/home/mue/python-programs/General syntax/syntax.py",
+		"/home/mue/python-programs/General syntax/comments.py",
+		"/home/mue/python-programs/Quickstart/function.py",
+		"/home/mue/python-programs/Quickstart/generator.py",
+		"/home/mue/python-programs/Quickstart/forloop.py",
+		"/home/mue/python-programs/Quickstart/exceptions.py",
+		"/home/mue/python-programs/Quickstart/oop2.py",
+		"/home/mue/python-programs/Quickstart/simpleoop.py",
+		"/home/mue/python-programs/Quickstart/whileloop.py",
+		"/home/mue/python-programs/Quickstart/conditionals.py",
+		"/home/mue/python-programs/Quickstart/hello.py",
+		"/home/mue/python-programs/Quickstart/lines.txt",
+		"/home/mue/Exercise files/hello.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
